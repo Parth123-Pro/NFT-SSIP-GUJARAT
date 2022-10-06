@@ -1,6 +1,16 @@
 # NFT-SSIP
-
+## Technology Stack & Tools
+Solidity (Writing Smart Contract)
+Javascript (React & Testing)
+Ethers (Blockchain Interaction)
+Hardhat (Development Framework)
+Ipfs (Metadata storage)
+React routers (Navigational components)
 Requirements For Initial Setup
+Install NodeJS, should work with any node version below 16.5.0
+Install Hardhat
+
+## Requirements For Initial Setup
 Install NodeJS, should work with any node version below 16.5.0
 Install Hardhat
 Setting Up
