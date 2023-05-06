@@ -1,4 +1,5 @@
 # NFT-SSIP
+Students Startup and Innovation Policy (SSIP)
 ## Technology Stack & Tools
 Solidity (Writing Smart Contract)
 Javascript (React & Testing)
